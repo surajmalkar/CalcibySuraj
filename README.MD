@@ -1,8 +1,7 @@
 # React Native Calculator  
 **Calc by Suraj**
 download app:
-https://expo.dev/accounts/prashaant14/projects/calculator-app/builds/b57f0d1e-300e-4371-9115-0b47f589d1b7
-
+https://expo.dev/accounts/suraj24/projects/cal-by-suraj/builds/0233bc85-58dc-4869-b259-715a718ee74b 
 A React Native calculator with light and dark theme toggling.
 
 ### Screens
