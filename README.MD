@@ -6,7 +6,7 @@ https://expo.dev/accounts/prashaant14/projects/calculator-app/builds/b57f0d1e-30
 A React Native calculator with light and dark theme toggling.
 
 ### Screens
-![App Screenshot](assets/file_2024-12-27_12.47.33.png)
+![App Screenshot](assets/images/file_2024-12-27_12.47.33.png)
 
 ---
 
