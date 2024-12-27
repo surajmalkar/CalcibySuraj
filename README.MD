@@ -6,11 +6,7 @@ https://expo.dev/accounts/prashaant14/projects/calculator-app/builds/b57f0d1e-30
 A React Native calculator with light and dark theme toggling.
 
 ### Screens
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://imgur.com/a/806uwiZ" alt="Calculator Overview" width="45%" />
-  
-</div>
+![App Screenshot](assets/file_2024-12-27_12.47.33.png)
 
 ---
 
